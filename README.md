@@ -1,2 +1,1 @@
-# Workshop6
-Workshop6 web322
+# web322-assignment2
